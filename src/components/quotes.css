@@ -1,0 +1,11 @@
+.qoute-card {
+    height: 100px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.like-icon {
+    margin-top: 25px;
+    float: inline-end;
+}
